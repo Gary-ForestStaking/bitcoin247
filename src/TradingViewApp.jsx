@@ -25,7 +25,7 @@ export default function TradingViewApp() {
           symbol: "BINANCE:BTCUSDT",
           interval: "1",
           timezone: "Etc/UTC",
-          theme: "light",
+          theme: "dark",
           style: "1",
           enable_publishing: false,
           backgroundColor: "rgba(0, 0, 0, 1)",
