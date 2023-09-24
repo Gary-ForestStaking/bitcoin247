@@ -28,6 +28,7 @@ export default function TradingViewApp() {
           theme: "dark",
           style: "1",
           enable_publishing: false,
+          backgroundColor": "rgba(0, 0, 0, 1)
           gridColor: "rgba(0, 0, 0, 0.06)",
           hide_top_toolbar: true,
           save_image: false,
