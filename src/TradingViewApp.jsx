@@ -32,7 +32,6 @@ export default function TradingViewApp() {
           gridColor: "rgba(0, 0, 0, 0.06)",
           hide_top_toolbar: true,
           save_image: false,
-          details: true,
           studies: ["STD;Bollinger_Bands"]
         });
       }
